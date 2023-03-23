@@ -1,0 +1,12 @@
+.addPostForm {
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid black;
+    text-align: right;
+}
+
+.addPostForm textarea {
+    width: 97%;
+    margin: 5px;
+    resize: vertical;
+}
